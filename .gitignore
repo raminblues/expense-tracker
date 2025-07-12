@@ -1,0 +1,14 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# PyCharm settings
+.idea/
+
+# Environment files
+.venv/
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
